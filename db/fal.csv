@@ -1,0 +1,8 @@
+Numero Bus,Partenza,Ora,Arrivo,Ora,Durata,Garantito in caso di sciopero
+28,Matera Centrale,13:22,Bari Centrale FAL,14:59,01:37,SI, action=get_corsa&id_corsa=28087&id_partenza=16540&id_arrivo=16532
+30,Matera Centrale,14:20,Bari Centrale FAL,15:57,01:37,SI, action=get_corsa&id_corsa=28091&id_partenza=16540&id_arrivo=16532
+34/124,Matera Centrale,16:24,Bari Centrale FAL,17:58,01:34,NO, action=get_corsa&id_corsa=28099&id_partenza=16540&id_arrivo=16532
+38,Matera Centrale,17:49,Bari Centrale FAL,19:23,01:34,NO, action=get_corsa&id_corsa=28082&id_partenza=16540&id_arrivo=16532
+40,Matera Centrale,18:43,Bari Centrale FAL,20:19,01:36,NO, action=get_corsa&id_corsa=28081&id_partenza=16540&id_arrivo=16532
+42/130,Matera Centrale,19:53,Bari Centrale FAL,21:36,01:43,NO, action=get_corsa&id_corsa=28097&id_partenza=16540&id_arrivo=16532
+44/132,Matera Centrale,21:34,Bari Centrale FAL,23:06,01:32,NO, action=get_corsa&id_corsa=28096&id_partenza=16540&id_arrivo=16532

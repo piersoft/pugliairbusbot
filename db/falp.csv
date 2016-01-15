@@ -1,0 +1,8 @@
+101,Bari V. della Resistenza (supermercato Famila),06:15,Matera C.le (P.za Matteotti),07:56,01:41,SI, action=get_corsa&id_corsa=28236&id_partenza=16290&id_arrivo=16414
+151,Bari V. Turati Mater Dei,12:25,Matera C.le (P.za Matteotti),14:00,01:35,NO, action=get_corsa&id_corsa=28230&id_partenza=16287&id_arrivo=16414
+151 bis,Bari V. Turati Mater Dei,12:25,Matera C.le (P.za Matteotti),14:00,01:35,NO, action=get_corsa&id_corsa=31090&id_partenza=16287&id_arrivo=16414
+107,Bari V. Turati Mater Dei,13:15,Matera P.za Matteotti,15:04,01:49,SI, action=get_corsa&id_corsa=28302&id_partenza=16287&id_arrivo=16419
+155/1501,Bari V. Turati Mater Dei,13:45,Matera Villa Longo,15:05,01:20,SI, action=get_corsa&id_corsa=28299&id_partenza=16287&id_arrivo=16417
+111,Bari V. Turati Mater Dei,13:55,Matera P.za Matteotti,15:49,01:54,SI, action=get_corsa&id_corsa=28256&id_partenza=16287&id_arrivo=16419
+155 bis,Bari V. Turati Mater Dei,13:55,Matera C.le (P.za Matteotti),15:33,01:38,SI, action=get_corsa&id_corsa=28300&id_partenza=16287&id_arrivo=16414
+113,Bari V. Turati Mater Dei,19:05,Matera C.le (P.za Matteotti),20:54,01:49,NO, action=get_corsa&id_corsa=28273&id_partenza=16287&id_arrivo=16414

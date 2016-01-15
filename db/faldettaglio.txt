@@ -1,0 +1,114 @@
+                            <strong>Note generali</strong>
+                <p>
+                    nella stazione di Altamura previsto cambio treno per Bari                </p>
+                                                <hr/>
+            <table class="fermate_intermedie">
+                <thead>
+                    <tr>
+                        <th class="fermata">Fermata</th>
+                        <th class="ora_arrivo">Ora arrivo</th>
+                        <th class="ora_partenza">Ora partenza</th>
+                        <th class="sciopero">Fermata a richiesta</th>
+                        <th class="note">Note</th>
+                    </tr>
+                </thead>
+                <tbody>
+                                                <tr >
+                                <td>Matera Centrale</td>
+                                <td>19:52</td>
+                                <td>19:53</td>
+                                <td></td>
+                                <td>
+                                                                    </td>
+                            </tr>
+                                                        <tr >
+                                <td>Matera Villa Longo</td>
+                                <td>19:57</td>
+                                <td>19:58</td>
+                                <td></td>
+                                <td>
+                                                                    </td>
+                            </tr>
+                                                        <tr >
+                                <td>Marinella</td>
+                                <td>20:13</td>
+                                <td>20:14</td>
+                                <td></td>
+                                <td>
+                                                                    </td>
+                            </tr>
+                                                        <tr class="nota-evidenza">
+                                <td>Altamura</td>
+                                <td>20:24</td>
+                                <td>20:37</td>
+                                <td></td>
+                                <td>
+                                    Nella stazione di Altamura coincidenza e cambio treno per Bari                                </td>
+                            </tr>
+                                                        <tr >
+                                <td>Toritto</td>
+                                <td>20:58</td>
+                                <td>21:00</td>
+                                <td></td>
+                                <td>
+                                                                    </td>
+                            </tr>
+                                                        <tr >
+                                <td>Grumo A.</td>
+                                <td>21:03</td>
+                                <td>21:04</td>
+                                <td></td>
+                                <td>
+                                                                    </td>
+                            </tr>
+                                                        <tr >
+                                <td>Binetto</td>
+                                <td>21:06</td>
+                                <td>21:07</td>
+                                <td></td>
+                                <td>
+                                                                    </td>
+                            </tr>
+                                                        <tr >
+                                <td>Palo del Colle</td>
+                                <td>21:10</td>
+                                <td>21:11</td>
+                                <td></td>
+                                <td>
+                                                                    </td>
+                            </tr>
+                                                        <tr >
+                                <td>Modugno</td>
+                                <td>21:19</td>
+                                <td>21:20</td>
+                                <td></td>
+                                <td>
+                                                                    </td>
+                            </tr>
+                                                        <tr >
+                                <td>Bari Policlinico</td>
+                                <td>21:28</td>
+                                <td>21:29</td>
+                                <td></td>
+                                <td>
+                                                                    </td>
+                            </tr>
+                                                        <tr >
+                                <td>Bari Scalo</td>
+                                <td>21:41</td>
+                                <td>21:32</td>
+                                <td></td>
+                                <td>
+                                                                    </td>
+                            </tr>
+                                                        <tr >
+                                <td>Bari Centrale FAL</td>
+                                <td>21:36</td>
+                                <td>/</td>
+                                <td></td>
+                                <td>
+                                                                    </td>
+                            </tr>
+                                            </tbody>
+            </table>
+            
